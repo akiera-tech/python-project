@@ -1,0 +1,5 @@
+.akie/
+node_modules/
+.next/
+.akie-next-dev.log
+.akie-tacca.log
