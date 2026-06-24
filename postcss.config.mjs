@@ -1,3 +1,5 @@
-const nextConfig = {};
+const nextConfig = {
+  turbopack: {},
+};
 
 export default nextConfig;
